@@ -5,4 +5,4 @@ Le but de ce projet est un chronomètre.
 
 ## Demo
 
-https://chronometer-react.vercel.app/
+Sur [Vercel](https://chronometer-react.vercel.app/)
