@@ -1,7 +1,7 @@
 # Chronometer-React
 
 Mini projet pour s'exercer au react.
-le but de ce projet est un chronomètre.
+Le but de ce projet est un chronomètre.
 
 ## Demo
 
